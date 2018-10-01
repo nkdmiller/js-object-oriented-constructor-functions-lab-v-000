@@ -3,3 +3,14 @@ function Scooter(year, color, model){
   this.color = color;
   this.model = model;
 }
+
+function Driver(name, age, experience){
+  this.age = age;
+  this.name = name;
+}
+
+function Scooter(year, color, model){
+  this.year = year;
+  this.color = color;
+  this.model = model;
+}
